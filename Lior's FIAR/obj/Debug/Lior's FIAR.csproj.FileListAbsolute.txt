@@ -1,0 +1,29 @@
+C:\Users\lab1\source\repos\Lior's FIAR\bin\Debug\Lior's FIAR.exe.config
+C:\Users\lab1\source\repos\Lior's FIAR\bin\Debug\Lior's FIAR.exe
+C:\Users\lab1\source\repos\Lior's FIAR\bin\Debug\Lior's FIAR.pdb
+C:\Users\lab1\source\repos\Lior's FIAR\obj\Debug\Lior's FIAR.csprojAssemblyReference.cache
+C:\Users\lab1\source\repos\Lior's FIAR\obj\Debug\Lior_s_FIAR.Form1.resources
+C:\Users\lab1\source\repos\Lior's FIAR\obj\Debug\Lior_s_FIAR.Properties.Resources.resources
+C:\Users\lab1\source\repos\Lior's FIAR\obj\Debug\Lior's FIAR.csproj.GenerateResource.cache
+C:\Users\lab1\source\repos\Lior's FIAR\obj\Debug\Lior's FIAR.csproj.CoreCompileInputs.cache
+C:\Users\lab1\source\repos\Lior's FIAR\obj\Debug\Lior's FIAR.exe
+C:\Users\lab1\source\repos\Lior's FIAR\obj\Debug\Lior's FIAR.pdb
+C:\Users\lab2\Downloads\Lior's FIAR\bin\Debug\Lior's FIAR.exe.config
+C:\Users\lab2\Downloads\Lior's FIAR\bin\Debug\Lior's FIAR.exe
+C:\Users\lab2\Downloads\Lior's FIAR\bin\Debug\Lior's FIAR.pdb
+C:\Users\lab2\Downloads\Lior's FIAR\obj\Debug\Lior's FIAR.csprojAssemblyReference.cache
+C:\Users\lab2\Downloads\Lior's FIAR\obj\Debug\Lior_s_FIAR.Form1.resources
+C:\Users\lab2\Downloads\Lior's FIAR\obj\Debug\Lior_s_FIAR.Properties.Resources.resources
+C:\Users\lab2\Downloads\Lior's FIAR\obj\Debug\Lior's FIAR.csproj.GenerateResource.cache
+C:\Users\lab2\Downloads\Lior's FIAR\obj\Debug\Lior's FIAR.csproj.CoreCompileInputs.cache
+C:\Users\lab2\Downloads\Lior's FIAR\obj\Debug\Lior's FIAR.exe
+C:\Users\lab2\Downloads\Lior's FIAR\obj\Debug\Lior's FIAR.pdb
+C:\Users\user-pc\Desktop\שיעורי תכנות בית סםר\Lior's FIAR\bin\Debug\Lior's FIAR.exe.config
+C:\Users\user-pc\Desktop\שיעורי תכנות בית סםר\Lior's FIAR\bin\Debug\Lior's FIAR.exe
+C:\Users\user-pc\Desktop\שיעורי תכנות בית סםר\Lior's FIAR\bin\Debug\Lior's FIAR.pdb
+C:\Users\user-pc\Desktop\שיעורי תכנות בית סםר\Lior's FIAR\obj\Debug\Lior_s_FIAR.Form1.resources
+C:\Users\user-pc\Desktop\שיעורי תכנות בית סםר\Lior's FIAR\obj\Debug\Lior_s_FIAR.Properties.Resources.resources
+C:\Users\user-pc\Desktop\שיעורי תכנות בית סםר\Lior's FIAR\obj\Debug\Lior's FIAR.csproj.GenerateResource.cache
+C:\Users\user-pc\Desktop\שיעורי תכנות בית סםר\Lior's FIAR\obj\Debug\Lior's FIAR.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\Desktop\שיעורי תכנות בית סםר\Lior's FIAR\obj\Debug\Lior's FIAR.exe
+C:\Users\user-pc\Desktop\שיעורי תכנות בית סםר\Lior's FIAR\obj\Debug\Lior's FIAR.pdb
