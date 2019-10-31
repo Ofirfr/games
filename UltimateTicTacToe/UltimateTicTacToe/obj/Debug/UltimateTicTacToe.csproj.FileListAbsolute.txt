@@ -1,0 +1,10 @@
+C:\Users\user-pc\source\repos\UltimateTicTacToe\UltimateTicTacToe\bin\Debug\UltimateTicTacToe.exe.config
+C:\Users\user-pc\source\repos\UltimateTicTacToe\UltimateTicTacToe\bin\Debug\UltimateTicTacToe.exe
+C:\Users\user-pc\source\repos\UltimateTicTacToe\UltimateTicTacToe\bin\Debug\UltimateTicTacToe.pdb
+C:\Users\user-pc\source\repos\UltimateTicTacToe\UltimateTicTacToe\obj\Debug\UltimateTicTacToe.csprojAssemblyReference.cache
+C:\Users\user-pc\source\repos\UltimateTicTacToe\UltimateTicTacToe\obj\Debug\UltimateTicTacToe.Properties.Resources.resources
+C:\Users\user-pc\source\repos\UltimateTicTacToe\UltimateTicTacToe\obj\Debug\UltimateTicTacToe.csproj.GenerateResource.cache
+C:\Users\user-pc\source\repos\UltimateTicTacToe\UltimateTicTacToe\obj\Debug\UltimateTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\source\repos\UltimateTicTacToe\UltimateTicTacToe\obj\Debug\UltimateTicTacToe.exe
+C:\Users\user-pc\source\repos\UltimateTicTacToe\UltimateTicTacToe\obj\Debug\UltimateTicTacToe.pdb
+C:\Users\user-pc\source\repos\UltimateTicTacToe\UltimateTicTacToe\obj\Debug\UltimateTicTacToe.Form1.resources
